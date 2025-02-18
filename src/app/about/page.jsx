@@ -1,5 +1,5 @@
 const AboutPage = () => {
-  return <div>about page</div>;
+  return <div className="flex justify-center">about page</div>;
 };
 
 export default AboutPage;
